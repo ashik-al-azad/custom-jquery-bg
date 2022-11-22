@@ -1,0 +1,9 @@
+/* jquery-bg */
+.jquery-bg {
+    position: relative;
+    height: 100vh;
+    border-radius: 15px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
